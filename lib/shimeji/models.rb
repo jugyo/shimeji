@@ -1,0 +1,1 @@
+require 'shimeji/models/pick'
